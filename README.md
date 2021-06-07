@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/arXiv-2008.09470-00ff00.svg)](http://arxiv.org/abs/2008.09470)
 
 
-**Update: Pre-trained Universal Sentence Encoders and BERT Sentence Transformer now available for embedding, see good doc
+**Update: Pre-trained Universal Sentence Encoders and BERT Sentence Transformer now available for embedding, see Google doc
 
 Top2Vec
 ======= 
@@ -21,7 +21,6 @@ you can:
 * Search documents by keywords.
 * Find similar words.
 * Find similar documents.
-* Expose model with [RESTful-Top2Vec](https://github.com/ddangelov/RESTful-Top2Vec)
 
 See the [paper](http://arxiv.org/abs/2008.09470) for more details on how it works.
 
@@ -169,21 +168,6 @@ the universal sentence encoder options.
 More information on [universal-sentence-encoder](https://tfhub.dev/google/universal-sentence-encoder/4), [universal-sentence-encoder-multilingual](https://tfhub.dev/google/universal-sentence-encoder-multilingual/3), and [distiluse-base-multilingual-cased](https://www.sbert.net/docs/pretrained_models.html).
 
 
-Citation
------------------
-
-If you would like to cite Top2Vec in your work this is the current reference:
-
-```bibtex
-@article{angelov2020top2vec,
-      title={Top2Vec: Distributed Representations of Topics}, 
-      author={Dimo Angelov},
-      year={2020},
-      eprint={2008.09470},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
     
 Example
 -------
